@@ -1,0 +1,14 @@
+{
+	"name": "@rivertwilight/react-i18n",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"react": "^17.0.0"
+	},
+	"author": "RiverTwilight",
+	"license": "MIT"
+}
